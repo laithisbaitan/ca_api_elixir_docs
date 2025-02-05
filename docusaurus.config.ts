@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Collective Access Api Elixir',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'laith isbaitan CA API Elixir',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
