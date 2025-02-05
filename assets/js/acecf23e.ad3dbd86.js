@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_api_elixir_docs=self.webpackChunkca_api_elixir_docs||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/ca_api_elixir_docs/blog","blogTitle":"Blog","authorsListPath":"/ca_api_elixir_docs/blog/authors"}')}}]);

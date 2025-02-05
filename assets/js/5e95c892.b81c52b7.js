@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_api_elixir_docs=self.webpackChunkca_api_elixir_docs||[]).push([[9647],{8122:(e,s,r)=>{r.r(s),r.d(s,{default:()=>n});r(6540);var a=r(4164),c=r(1082),i=r(204),u=r(2831),l=r(1410),d=r(4848);function n(e){return(0,d.jsx)(c.e3,{className:(0,a.A)(i.G.wrapper.docsPages),children:(0,d.jsx)(l.A,{children:(0,u.v)(e.route.routes)})})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_api_elixir_docs=self.webpackChunkca_api_elixir_docs||[]).push([[8518],{7816:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/ca_api_elixir_docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
